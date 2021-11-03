@@ -1,0 +1,45 @@
+{
+  "id": "33049c93-82ee-4531-9459-6ac54bb0a5f5",
+  "name": "smalltalk.BotPurpose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My name is rose and I\u0027m a Chatbot.I was created by sumith  on the 12th of june 2021, and I\\u0027m made using python,node JS ,php and a bunch of other cool languages."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "flow": "Replace this message inside the quotes with a Flow ID from ManyChatso you can redirect the user to a flow and keep them engaged. If you don\u0027t know how to get the Flow ID, then please see this --\u003e http://bit.ly/2KfrzAt"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

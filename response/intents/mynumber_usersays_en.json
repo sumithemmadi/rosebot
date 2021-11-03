@@ -1,0 +1,71 @@
+[
+  {
+    "id": "9c7add42-b51e-48ce-aae0-3efebd03f7d6",
+    "data": [
+      {
+        "text": "What is your ",
+        "userDefined": false
+      },
+      {
+        "text": "phone pe",
+        "meta": "@mynumber",
+        "alias": "mynumber",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98b82989-ef80-48f4-9c9d-2883ce7ba302",
+    "data": [
+      {
+        "text": "send me your ",
+        "userDefined": false
+      },
+      {
+        "text": "google pay",
+        "meta": "@mynumber",
+        "alias": "mynumber",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6cda14d-35c4-4c13-ba37-785c09c0f073",
+    "data": [
+      {
+        "text": "Send me your  ",
+        "userDefined": false
+      },
+      {
+        "text": "whatsapp",
+        "meta": "@mynumber",
+        "alias": "mynumber",
+        "userDefined": false
+      },
+      {
+        "text": " number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": "18775ecd-08a0-456c-b28f-185cbacbbe39",
+  "name": "smalltalk.reaction.negative",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "human",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d759139-2905-422c-ba78-ac4475ac3d9e",
+          "name": "sad-emoji",
+          "required": false,
+          "dataType": "@sad-emoji",
+          "value": "$sad-emoji",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$sad-emoji"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You seem upset. Let me try and help you."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "flow": "Replace this message inside the quotes with a Flow ID from ManyChatso you can redirect the user to a flow and keep them engaged. If you don\u0027t know how to get the Flow ID, then please see this --\u003e http://bit.ly/2KfrzAt"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

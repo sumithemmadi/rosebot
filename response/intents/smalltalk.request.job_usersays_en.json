@@ -1,0 +1,135 @@
+[
+  {
+    "id": "01d8889a-203a-4c34-86fc-cd2a1d638f8c",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": " available for work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a29325e-86ba-44e3-a386-79f93bccbe59",
+    "data": [
+      {
+        "text": "Are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": " for hire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cea15a31-a4d7-4b74-9ca4-e24796ea39db",
+    "data": [
+      {
+        "text": "I need help building my bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7291b5b2-5e76-4f63-9ca6-30652ddbddb5",
+    "data": [
+      {
+        "text": "I need a bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec9e6adf-5b0a-436d-9da2-e7d57ecbbf8f",
+    "data": [
+      {
+        "text": "I need help with my bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "461d754d-6a53-4ede-ada2-23807cd3bf01",
+    "data": [
+      {
+        "text": "Will you build my bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fc2f8d9-e430-4fc1-9a5c-4cb4d160fb69",
+    "data": [
+      {
+        "text": "I want to hire you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "201c87d3-5be4-40af-9bc8-111d3364a74a",
+    "data": [
+      {
+        "text": "Can you help me build my bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "207492af-d3a0-463f-90ad-46a46d8db849",
+    "data": [
+      {
+        "text": "Can I hire you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

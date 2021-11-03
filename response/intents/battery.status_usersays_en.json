@@ -1,0 +1,106 @@
+[
+  {
+    "id": "8e822817-02e3-4560-b369-333ccee2c00d",
+    "data": [
+      {
+        "text": "Phone temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01a0a677-d3d3-4776-a7c5-3eb28b8ea909",
+    "data": [
+      {
+        "text": "battery temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f057caa-1965-4c97-b7e2-015f8c4a721d",
+    "data": [
+      {
+        "text": "battery percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "943e574a-5952-414b-889e-92e224e3ae76",
+    "data": [
+      {
+        "text": "battery charger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35e37cbb-e018-4322-a4cd-4faa56bdf84b",
+    "data": [
+      {
+        "text": "battery status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e065efba-9429-473c-a13f-ab275c081dbc",
+    "data": [
+      {
+        "text": "get-battery-status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd9234ab-3fdc-497f-9a5f-b97cd4e2cda2",
+    "data": [
+      {
+        "text": "get battery status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33281e1c-a79d-4eb0-847e-f9b7f768cd71",
+    "data": [
+      {
+        "text": "battery.status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

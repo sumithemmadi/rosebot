@@ -1,0 +1,9 @@
+{
+  "id": "07fb0fcb-c69a-4155-8b10-2716e073aff5",
+  "name": "song",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

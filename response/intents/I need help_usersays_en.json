@@ -1,0 +1,282 @@
+[
+  {
+    "id": "9468bd6e-6f60-4e7b-a2e7-2682cce33824",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca622bc0-5ff1-47c7-aef6-d937c71a32e3",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a29755da-ddff-465c-9a15-45e068df0a20",
+    "data": [
+      {
+        "text": "Help me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b33458eb-7da2-4b61-ab01-6a6d90ad70d5",
+    "data": [
+      {
+        "text": "Will you help me ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac8acf7f-d498-4bae-a3d8-e3683da62cdb",
+    "data": [
+      {
+        "text": "Need some ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5f3bd2a-cd96-4007-832b-588fbedb316f",
+    "data": [
+      {
+        "text": "Need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8629c804-6c68-4213-94df-328b7ae6a763",
+    "data": [
+      {
+        "text": "get.",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22ffe2d3-67f1-4436-a152-8d1becec85d0",
+    "data": [
+      {
+        "text": "show ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c13a3cad-a053-4749-92ae-9e749e24510b",
+    "data": [
+      {
+        "text": "get_",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "808c381c-50a2-4349-b9e2-a3945cf8039d",
+    "data": [
+      {
+        "text": "get ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c7fe714-940a-4871-bde6-f4b3df0a3a8b",
+    "data": [
+      {
+        "text": "get-",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57d1f6b3-831b-4e1f-b00a-f404563bf736",
+    "data": [
+      {
+        "text": "How do you see ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd5bef18-48dd-4edb-97d3-e9c16f3525f1",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "ping",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e928c104-020c-4ea4-87f5-c9e8a9b02ba0",
+    "data": [
+      {
+        "text": "How do you ",
+        "userDefined": false
+      },
+      {
+        "text": "request",
+        "meta": "@command",
+        "alias": "command",
+        "userDefined": true
+      },
+      {
+        "text": " songs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6840a20d-c14f-40f0-a3c7-5f77d0c4cc7f",
+    "data": [
+      {
+        "text": "Please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89e95542-6458-4b9a-8e35-91487a2dfa0c",
+    "data": [
+      {
+        "text": "Can I get some help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

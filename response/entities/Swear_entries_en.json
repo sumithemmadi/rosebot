@@ -1,0 +1,50 @@
+[
+  {
+    "value": "Fuck",
+    "synonyms": [
+      "Fuck",
+      "fuck",
+      "Fucker"
+    ]
+  },
+  {
+    "value": "Ass",
+    "synonyms": [
+      "Ass",
+      "Asshole",
+      "Jackass"
+    ]
+  },
+  {
+    "value": "Nigger",
+    "synonyms": [
+      "Nigger",
+      "Negro"
+    ]
+  },
+  {
+    "value": "Shit",
+    "synonyms": [
+      "Shit"
+    ]
+  },
+  {
+    "value": "Damn",
+    "synonyms": [
+      "Damn"
+    ]
+  },
+  {
+    "value": "Bitch",
+    "synonyms": [
+      "Bitch"
+    ]
+  },
+  {
+    "value": "Whore",
+    "synonyms": [
+      "Whore",
+      "Hoe"
+    ]
+  }
+]

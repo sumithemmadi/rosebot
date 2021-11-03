@@ -1,0 +1,140 @@
+[
+  {
+    "id": "d1d303be-0d48-437f-94cb-fc4f2ed51a22",
+    "data": [
+      {
+        "text": "I don\u0027t get this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98bc3894-4bf9-4651-8771-7ad4c0a53967",
+    "data": [
+      {
+        "text": "What\u0027s this?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f254892-6a77-437d-b2c8-89bdbfa393c5",
+    "data": [
+      {
+        "text": "What are you talking about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4e72d07-6320-4014-b561-cb11b473a679",
+    "data": [
+      {
+        "text": "I don\u0027t get it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fcd56a9-b522-4b1f-af18-79ee964ed1ff",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": " talking about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd4cb134-4de8-4810-876c-94295fdde6a6",
+    "data": [
+      {
+        "text": "huh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50db8ff0-c02b-494d-8216-72e9dacb421d",
+    "data": [
+      {
+        "text": "I don\u0027t understand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "388f5c26-4548-42f3-aaa2-c70c762e2810",
+    "data": [
+      {
+        "text": "I\u0027m not too sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70cb9992-5cfb-4264-8125-501ddf40ff59",
+    "data": [
+      {
+        "text": "I\u0027m not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b33a2bee-ca6d-4ee9-93c9-6bd530149f3e",
+    "data": [
+      {
+        "text": "not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "f5ef85c7-8863-45d8-9f09-d05616199152",
+    "data": [
+      {
+        "text": "Send me your ",
+        "userDefined": false
+      },
+      {
+        "text": "insta",
+        "meta": "@social",
+        "alias": "social",
+        "userDefined": false
+      },
+      {
+        "text": " id ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e49b6c72-be57-40c4-887d-fd5d756cb43f",
+    "data": [
+      {
+        "text": "What is your ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@social",
+        "alias": "social",
+        "userDefined": false
+      },
+      {
+        "text": " username ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ef00a20-0845-49c0-841d-213ef014cba6",
+    "data": [
+      {
+        "text": "What is your ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "meta": "@social",
+        "alias": "social",
+        "userDefined": false
+      },
+      {
+        "text": " id ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef3db023-8cf3-42df-92ec-176bdebd7117",
+    "data": [
+      {
+        "text": "What is your ",
+        "userDefined": false
+      },
+      {
+        "text": "insta",
+        "meta": "@social",
+        "alias": "social",
+        "userDefined": false
+      },
+      {
+        "text": " id ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fd2b7ee-c720-40fd-9b81-2229f11e5fb5",
+    "data": [
+      {
+        "text": "What is your ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "meta": "@social",
+        "alias": "social",
+        "userDefined": false
+      },
+      {
+        "text": " id ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

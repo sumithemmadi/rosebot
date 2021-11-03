@@ -1,0 +1,37 @@
+{
+  "id": "f9e231c6-f421-4b6f-8127-2cca6c86eed5",
+  "name": "Im dead",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dead",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "```Here lies %nick% let them be a meme```",
+            "``` poor %nick% died while looking at greentext rip```",
+            "``` why did you even live...(jk ♡ u)```"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "fb6fcdd1-115f-441d-9959-ec0318f28d33",
+  "name": "social",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

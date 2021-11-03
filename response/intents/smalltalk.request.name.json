@@ -1,0 +1,45 @@
+{
+  "id": "1d31f2fd-951d-4931-b2da-5f966a92ba13",
+  "name": "smalltalk.request.name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can call me whatever you want. I\u0027m hear to serve you"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "flow": "Replace this message inside the quotes with a Flow ID from ManyChat so you can redirect the user to options for navigating your conversational experience. If you don\u0027t know how to get the Flow ID, then please see Part 2 at https://www.janis.ai/manychat."
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

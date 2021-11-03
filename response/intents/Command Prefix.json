@@ -1,0 +1,47 @@
+{
+  "id": "35176dfb-3831-41e4-9832-0cb169b6df4f",
+  "name": "Command Prefix",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "command.prefix",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1530d3e0-6c4c-474a-b190-31506b738571",
+          "name": "command",
+          "required": false,
+          "dataType": "@command",
+          "value": "$command",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3fa7c5f7-bcf0-4e99-8242-0929f1f014c8",
+  "name": "smalltalk.common.STOP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "flow": "Replace this message inside the quotes with a Flow ID from ManyChatso you can redirect the user to a flow and keep them engaged. If you don\u0027t know how to get the Flow ID, then please see this --\u003e http://bit.ly/2KfrzAt"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

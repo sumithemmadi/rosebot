@@ -1,0 +1,155 @@
+[
+  {
+    "id": "7f3b901b-018e-438c-af53-1169e92e82e5",
+    "data": [
+      {
+        "text": "Call your boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b16074a6-86e9-417b-919f-a9abe4d9effe",
+    "data": [
+      {
+        "text": "chat with ",
+        "userDefined": false
+      },
+      {
+        "text": "sumith",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8ce4e5b-2612-4543-9709-d0c4457728c7",
+    "data": [
+      {
+        "text": "Give phone to ",
+        "userDefined": false
+      },
+      {
+        "text": "sumtih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1f0e437-a4d2-491a-b4e6-75318932caf7",
+    "data": [
+      {
+        "text": "Give to ",
+        "userDefined": false
+      },
+      {
+        "text": "sumith",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c363073-f45f-48c8-9f7d-38da3a21f8d8",
+    "data": [
+      {
+        "text": "call again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6ebd5eb-91f2-4eec-b3ca-912c6fcc75e5",
+    "data": [
+      {
+        "text": "call ",
+        "userDefined": false
+      },
+      {
+        "text": "sumith",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fc52de9-eb9f-4b64-9a51-f399374ff6ec",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "chat",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "sumith",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b76610c-4e71-4629-8111-d089b8817e75",
+    "data": [
+      {
+        "text": "call-",
+        "userDefined": false
+      },
+      {
+        "text": "sumith",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd37a2d5-f859-447f-9c18-07c1d09808fc",
+    "data": [
+      {
+        "text": "call.",
+        "userDefined": false
+      },
+      {
+        "text": "sumith",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

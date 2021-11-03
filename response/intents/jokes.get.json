@@ -1,0 +1,80 @@
+{
+  "id": "a421adc4-e2ae-458a-af54-dec040b3951d",
+  "name": "jokes.get",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jokes.get",
+      "affectedContexts": [
+        {
+          "name": "jokesget-followup",
+          "lifespan": 5,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Cool"
+            },
+            {
+              "title": "Not funny"
+            },
+            {
+              "title": "More jokes"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Lightning doesn\u0027t mean to shock people, it just doesn\u0027t know how to conduct itself.",
+            "Knowledge is knowing a tomato is a fruit. Wisdom is not putting it in a fruit salad.",
+            "The only substitute for good manners is fast reflexes.",
+            "Reading whilst sunbathing makes you well red.",
+            "Evening news is where they begin with \u0027Good evening\u0027, and then proceed to tell you why it isn\u0027t.",
+            "A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station.",
+            "Did you know that dolphins are so smart that within a few weeks of captivity, they can train people to stand on the very edge of the pool and throw them fish?",
+            "A bank is a place that will lend you money, if you can prove that you don\u0027t need it.",
+            "A clear conscience is usually the sign of a bad memory.",
+            "My first job was working in an orange juice factory, but I got canned because I couldn\u0027t concentrate.",
+            "Worrying works! 90% of the things I worry about never happen.",
+            "A bus is a vehicle that runs twice as fast when you are after it as when you are in it.",
+            "Always remember that you are unique; just like everyone else.",
+            "Can\u0027t stand it when a sentence doesn\u0027t end the way you think it OCTOPUS!",
+            "I was going to donate blood until the lady got all personal and started asking \"Who\u0027s blood is this?\" and \"How did you get it?\"",
+            "If swimming is so good for your figure, how do you explain whales?",
+            "I don\u0027t have a big ego. I\u0027m way too cool for that.",
+            "Why couldn\u0027t the bicycle stand? Because it was two tired."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

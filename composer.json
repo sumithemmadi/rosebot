@@ -1,0 +1,15 @@
+{
+    "name": "sumithemmadi/rosebot",
+    "description": "my personal chat bot",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sumithemmadi",
+            "email": "sumithemmadi244@gmail.com"
+        }
+    ],
+    "require": {
+        "google/cloud-dialogflow": "^0.23.0",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}

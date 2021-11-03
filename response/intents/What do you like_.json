@@ -1,0 +1,37 @@
+{
+  "id": "b37ede59-9dfc-431c-84e5-fb806d8e328d",
+  "name": "What do you like?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.like",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I like traveling across chating  and helping in anyway i can.",
+            "I like chating , of course.",
+            "I thoroughly enjoy  chating with sumith friend 😂😂😂"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

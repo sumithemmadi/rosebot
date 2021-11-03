@@ -1,0 +1,47 @@
+{
+  "id": "f09a87d3-fda4-4bf6-bc97-65c03f2d8bee",
+  "name": "I need help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.help",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "358e2db9-f517-4289-b07e-907c8baa8b18",
+          "name": "command",
+          "required": false,
+          "dataType": "@command",
+          "value": "$command",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

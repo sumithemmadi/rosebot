@@ -1,0 +1,9 @@
+{
+  "id": "87135c73-622b-4170-b8a8-a4e43e0edc3d",
+  "name": "command",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

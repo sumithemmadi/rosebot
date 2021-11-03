@@ -1,0 +1,40 @@
+[
+  {
+    "value": "Facebook",
+    "synonyms": [
+      "facebook",
+      "fb"
+    ]
+  },
+  {
+    "value": "Instagram",
+    "synonyms": [
+      "instagram",
+      "Insta"
+    ]
+  },
+  {
+    "value": "Twitter",
+    "synonyms": [
+      "Twitter"
+    ]
+  },
+  {
+    "value": "Github",
+    "synonyms": [
+      "Github"
+    ]
+  },
+  {
+    "value": "Snapshot",
+    "synonyms": [
+      "snapshot"
+    ]
+  },
+  {
+    "value": "LinkedIn",
+    "synonyms": [
+      "LinkedIn"
+    ]
+  }
+]

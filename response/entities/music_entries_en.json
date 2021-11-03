@@ -1,0 +1,62 @@
+[
+  {
+    "value": "electro",
+    "synonyms": [
+      "electro",
+      "electro swing"
+    ]
+  },
+  {
+    "value": "chill",
+    "synonyms": [
+      "chill",
+      "chillstep"
+    ]
+  },
+  {
+    "value": "classical",
+    "synonyms": [
+      "classical"
+    ]
+  },
+  {
+    "value": "retro",
+    "synonyms": [
+      "retro",
+      "retro renegade"
+    ]
+  },
+  {
+    "value": "metal",
+    "synonyms": [
+      "metal"
+    ]
+  },
+  {
+    "value": "hiphop",
+    "synonyms": [
+      "hip-hop",
+      "hiphop",
+      "hop"
+    ]
+  },
+  {
+    "value": "rock",
+    "synonyms": [
+      "rock-n-roll",
+      "rock"
+    ]
+  },
+  {
+    "value": "jazz",
+    "synonyms": [
+      "jazz"
+    ]
+  },
+  {
+    "value": "pop",
+    "synonyms": [
+      "pop"
+    ]
+  }
+]

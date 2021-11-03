@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ce736c20-d786-4c8c-8b68-804addc0167c",
+    "data": [
+      {
+        "text": "Quotation on friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c559cbd0-90a1-4de8-8fec-ee6dedc17c4f",
+    "data": [
+      {
+        "text": "Quote on friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebcc7f2a-5bbc-44b2-a277-177d0948d640",
+    "data": [
+      {
+        "text": "Say on quotation on friendship day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20d4aa31-431d-481d-b6ad-cee81561cdf4",
+    "data": [
+      {
+        "text": "I want a quotation on friendship day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d92c82c6-2a45-42d7-9fe9-bead138bf856",
+    "data": [
+      {
+        "text": "Tell a quotation on friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

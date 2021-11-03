@@ -1,0 +1,384 @@
+[
+  {
+    "id": "aed744a6-9f32-40fc-b370-d88ecc8d0f88",
+    "data": [
+      {
+        "text": "What is your name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7983d9a-ad19-47b8-81ed-69ea36b393c6",
+    "data": [
+      {
+        "text": "What is your name ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b061601-95da-4c02-a13b-d79b974758d5",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea4fa51b-a62e-4351-b00d-0462e959beb5",
+    "data": [
+      {
+        "text": "do I know ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2965c373-149a-4971-b324-403e11fdbe7e",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0addcc4-ad0c-4cf0-8c3f-df0fbebfeb53",
+    "data": [
+      {
+        "text": "who is your developer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e39f736d-9f37-4938-8776-292e61af42d1",
+    "data": [
+      {
+        "text": "who is your bot maker?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5746a0ce-df46-48ec-ac4e-8d0827dcbc43",
+    "data": [
+      {
+        "text": "who developed you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed2c1c02-0cdb-4074-a181-2b10c0ec4434",
+    "data": [
+      {
+        "text": "which bot platform were you built with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28c59b5c-1a6a-4fa9-9e25-a0b8e8dcd53a",
+    "data": [
+      {
+        "text": "what bot platform?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "216e8f72-9634-4b23-acc4-d8034602bfc3",
+    "data": [
+      {
+        "text": "what agency made you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e20a2df-9249-49bf-a5d8-9d1e3f17c56f",
+    "data": [
+      {
+        "text": "who built ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2675268-eef1-4deb-9ce9-35a11be59704",
+    "data": [
+      {
+        "text": "who made ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b74a8c8-94ad-48ef-9412-2597850ed0f3",
+    "data": [
+      {
+        "text": "who are ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " creators?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c6d0436-a703-4662-a03a-51351c84b444",
+    "data": [
+      {
+        "text": "Who created ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f497b7bb-da26-4965-830f-89de76129b6e",
+    "data": [
+      {
+        "text": "who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6339c59-9448-42b3-8ce2-6b6aad1d8bfc",
+    "data": [
+      {
+        "text": "I should be ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dc37c47-54de-4d34-89f8-966091680e30",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " owner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c8614a8-29ee-43ef-9da4-733265dfb8f9",
+    "data": [
+      {
+        "text": "who",
+        "userDefined": true
+      },
+      {
+        "text": " is the boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fe6e7ea-8d24-48da-a037-2584930609d2",
+    "data": [
+      {
+        "text": "who do you ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "userDefined": false
+      },
+      {
+        "text": " for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dadd0e98-cd4a-4021-8a21-af166c5e4b6c",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " boss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94707b34-3d20-463a-b54f-3bbbebb535f5",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "userDefined": false
+      },
+      {
+        "text": " master",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

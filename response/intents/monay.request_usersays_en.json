@@ -1,0 +1,85 @@
+[
+  {
+    "id": "a42d196b-ac92-4a8e-824a-2773247d349d",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "hundred rupees",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d407ef4-a786-40d0-a82a-5d1adc9495b7",
+    "data": [
+      {
+        "text": "I want cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a965b754-4e33-4769-a47e-7827ec29b96f",
+    "data": [
+      {
+        "text": "I want money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b80cf20-49ad-4714-a7ab-dae3c6d60164",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 rs",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "859d1bd5-5f77-44c7-8f52-301637a0cc03",
+    "data": [
+      {
+        "text": "Send me ",
+        "userDefined": false
+      },
+      {
+        "text": "1000 rupees",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

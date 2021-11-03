@@ -1,0 +1,37 @@
+[
+  {
+    "value": "GooglePay",
+    "synonyms": [
+      "GooglePay",
+      "Google pay",
+      "Gpay"
+    ]
+  },
+  {
+    "value": "Phone pe",
+    "synonyms": [
+      "Phone pe",
+      "Phonepe",
+      "Phone pay"
+    ]
+  },
+  {
+    "value": "Paytm",
+    "synonyms": [
+      "Paytm"
+    ]
+  },
+  {
+    "value": "Amazon pay",
+    "synonyms": [
+      "Amazon pay"
+    ]
+  },
+  {
+    "value": "WhatsApp",
+    "synonyms": [
+      "WhatsApp",
+      "Whatsapp"
+    ]
+  }
+]

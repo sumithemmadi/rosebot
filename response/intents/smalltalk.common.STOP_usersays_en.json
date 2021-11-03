@@ -1,0 +1,713 @@
+[
+  {
+    "id": "d172a7b5-26f4-4969-98a8-994ad86c1fc6",
+    "data": [
+      {
+        "text": "please stop this now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "739d7e2d-7dc4-4322-bba3-1d12ca945a0f",
+    "data": [
+      {
+        "text": "enough please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db6476b8-91d9-4185-8993-dafc03cac0fb",
+    "data": [
+      {
+        "text": "stop this now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07364ea0-f99f-410c-8f6f-0e3c18b19681",
+    "data": [
+      {
+        "text": "stop doing that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d3e5e59-e11b-446a-a2f3-1e53fceb5254",
+    "data": [
+      {
+        "text": "please stop this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be39955b-bb68-4599-bcd8-83e3d3c119a2",
+    "data": [
+      {
+        "text": "No, thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0540a08-2dfd-47d0-8e46-f3bd7446949f",
+    "data": [
+      {
+        "text": "now you\u0027re fired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9ba104c-ce06-4cb4-b348-c15c3f9b6280",
+    "data": [
+      {
+        "text": "I will fire ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "702747c0-38a8-4b28-a7cc-3d31460f2709",
+    "data": [
+      {
+        "text": "you are fired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6340d6fd-dd4a-4847-b620-b1eaaca1b7cb",
+    "data": [
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": " should be fired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffbc5dc8-dda0-40cb-8078-a88e208ea5ca",
+    "data": [
+      {
+        "text": "we\u0027re done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db7a1030-a18e-41b5-ae13-f61d6b5dddd0",
+    "data": [
+      {
+        "text": "I\u0027m done here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d578210-8443-4db8-ba98-83f4473ff649",
+    "data": [
+      {
+        "text": "I\u0027m finished here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cce4f351-648d-4e33-9274-1e7dc3cee32a",
+    "data": [
+      {
+        "text": "I\u0027m finished with ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09f418e0-5c0f-43c0-92fc-842b27f308cd",
+    "data": [
+      {
+        "text": "It\u0027s over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d787991-4497-4534-aea8-b6ad09a70883",
+    "data": [
+      {
+        "text": "I want to fire ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5ad5890-b26a-415a-824b-1a92f684a09a",
+    "data": [
+      {
+        "text": "I\u0027m firing ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08a58aff-81f1-4eeb-b27f-ac76b2dee809",
+    "data": [
+      {
+        "text": "you are dismissed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2e0fd53-a84d-42e5-b41b-bec833c76b25",
+    "data": [
+      {
+        "text": "time to fire ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21020a0e-4f91-4e01-a4c6-4284a8f0bca5",
+    "data": [
+      {
+        "text": "you\u0027re fired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "189847ae-762e-4131-9b4e-67b811d9d33b",
+    "data": [
+      {
+        "text": "you\u0027ve been terminated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4252af70-258a-40d7-886f-3c3be4a0423c",
+    "data": [
+      {
+        "text": "stop bugging me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "694812d9-2229-4d15-a404-ba2e088356d9",
+    "data": [
+      {
+        "text": "leave me alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5440f0d6-d184-479a-b498-b3d7751bcbc1",
+    "data": [
+      {
+        "text": "I have no time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6b74db6-0709-48b2-908e-683da2cd9342",
+    "data": [
+      {
+        "text": "I\u0027m working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "966c3d5d-2363-4ce5-ba76-9bdd112d345c",
+    "data": [
+      {
+        "text": "I don\u0027t have time for this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f3c1bc8-2a5b-4a8e-8707-b555d7961227",
+    "data": [
+      {
+        "text": "I got work to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d7e0cc3-a283-40a6-8cc0-a8c19f91fd94",
+    "data": [
+      {
+        "text": "I\u0027m busy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2f20c59-8c85-440e-8d1f-dc57cfe6d291",
+    "data": [
+      {
+        "text": "I\u0027m swamped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0fcc57c-808b-4f8b-a1c2-344701d7d595",
+    "data": [
+      {
+        "text": "I got things to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb6f089a-e919-44be-b0ad-c878a3e27ef8",
+    "data": [
+      {
+        "text": "I\u0027m overloaded",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db0caf31-eb26-413c-a9c1-1845cfc36db0",
+    "data": [
+      {
+        "text": "stop immediately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cb13f02-2205-4e2f-9060-664786831ca6",
+    "data": [
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": " need to stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f7b4eb7-3bc4-4104-87f0-f4ce6447bc64",
+    "data": [
+      {
+        "text": "Can you stop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e14d602-aa56-4f3d-86af-f434f163416c",
+    "data": [
+      {
+        "text": "How do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": " stop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c712477-fcb9-4ee6-8f0c-b976cde953ce",
+    "data": [
+      {
+        "text": "quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b15e2b9-3f33-402f-8dae-85800b388c0e",
+    "data": [
+      {
+        "text": "please stop messaging me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6b665ab-4d6f-465f-a0d3-3f63211e5dd5",
+    "data": [
+      {
+        "text": "please don\u0027t message",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19386b1e-dd56-4b85-b541-c6d4c622788d",
+    "data": [
+      {
+        "text": "don\u0027t message me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d651c90d-f01a-4e0e-8511-a7b2f8a13c75",
+    "data": [
+      {
+        "text": "I don\u0027t want to ",
+        "userDefined": false
+      },
+      {
+        "text": "chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "350b07c9-7958-486b-add9-7965b480c41f",
+    "data": [
+      {
+        "text": "Stop sending me messages immediately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbfad70d-5d90-45b1-88c1-e8cfd1a7c189",
+    "data": [
+      {
+        "text": "No messages please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9227cc79-0a7d-46cb-ba41-8355684d6674",
+    "data": [
+      {
+        "text": "stop sending me messages now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81f17ced-db5e-4d18-b27f-5e8aa412967b",
+    "data": [
+      {
+        "text": "why do ",
+        "userDefined": false
+      },
+      {
+        "text": "you",
+        "userDefined": false
+      },
+      {
+        "text": " keep sending me messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4711ce8d-6c36-43a3-b0c5-1cf9f3c3a4e4",
+    "data": [
+      {
+        "text": "stop sending me messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "433c4955-037c-46ac-80b7-b50f5beb6744",
+    "data": [
+      {
+        "text": "please stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40998847-1eb2-475e-8426-103c7df881b1",
+    "data": [
+      {
+        "text": "stop this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02dbed8a-8914-493f-bd96-6137302f3208",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d21dcb5-2830-4710-9ad3-861bffd34925",
+    "data": [
+      {
+        "text": "Cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb1cb887-f834-4440-a148-d94b3a3164a8",
+    "data": [
+      {
+        "text": "Stop it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "286cac1d-5ee0-410a-bb5e-ca26f68b195f",
+    "data": [
+      {
+        "text": "done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

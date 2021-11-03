@@ -1,0 +1,3 @@
+Satadar Nagar, Ward 116 Allapur, Hyderabad, Kukatpally mandal, Medchal–Malkajgiri, Telangana, 500018, India
+lat : 17.460790610475666
+lon : 78.40805063929753
